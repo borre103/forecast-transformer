@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="Marca-ITBA-Color-ALTA.png" alt="ITBA Logo" width="200"/>
+  <img src="./Marca-ITBA-Color-ALTA.png" alt="ITBA Logo" width="200" />
 </p>
+
 
 
 
