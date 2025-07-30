@@ -38,7 +38,7 @@ Con esta solución, el área de Supply Chain y Planificación de Coloplast dispo
 - **Alcance:**  
 - Tiempo total, en días, desde la orden de compra internacional hasta la disponibilidad en stock nacional.
 
-- **Metodología de trabajo y modelos**
+## **Metodología de trabajo y modelos**
 - **Preparación de datos:** Limpieza, conversión de tipos e imputación de Lead_days; creación de lags y promedios móviles.  
 - **Escalado y dataset:** Normalización, ventana de 12 meses de entrada y 3 de pronóstico.
 - **Modelado:** Entrenamiento de Transformer (y baselines  con PyTorch Lightning, usando early stopping y checkpoints.
