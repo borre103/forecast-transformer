@@ -1,9 +1,8 @@
 <p align="center">
-![ITBA Logo](https://raw.githubusercontent.com/borre103/forecast-transformer/main/Marca-ITBA-Color-ALTA.png){width=200}
+<a href="./README.md">
+![ITBA Logo](https://raw.githubusercontent.com/borre103/forecast-transformer/main/Marca-ITBA-Color-ALTA.png)
+</a>
 </p>
-
-
-
 
 # **Forecast-Transformer**
 Predicción de Ventas Mensuales Futuras por línea de negocio utilizando un modelo Transformer en PyTorch
