@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/borre103/forecast-transformer/main/itba2.png"
+  <img src="https://raw.githubusercontent.com/borre103/forecast-transformer/main/itba2.jpg"
        alt="ITBA Logo"
        width="200" />
 </p>
