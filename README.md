@@ -1,7 +1,7 @@
-# **forecast-transformer**
+# **Forecast-Transformer**
 Predicción de Ventas Mensuales Futuras por línea de negocio utilizando un modelo Transformer en PyTorch
 
-##**Propuesta de valor**:
+## **Propuesta de valor**:
 En un contexto en el que Coloplast no cuenta con la segmentación de importaciones por grado de producto, este proyecto redefine el enfoque hacia la predicción de ventas mensuales de las dos líneas de negocio disponibles —Ostomy Care (OC) e Intermittent Catheters (IC)— en lugar de productos “premium” solamente. Al aprovechar un modelo Transformer entrenado con los últimos 12 meses de datos y variables exógenas clave (importaciones y tiempos de Lead Days), lo que hice fue:
 
 - **Visibilidad anticipada de la demanda**
@@ -18,7 +18,7 @@ En un contexto en el que Coloplast no cuenta con la segmentación de importacion
   
 Con esta solución, el área de Supply Chain y Planificación de Coloplast dispone de una herramienta predictiva confiable que traduce datos históricos de ventas e importaciones en decisiones operativas concretas, asegurando la disponibilidad de productos clave y apoyando el cumplimiento de los objetivos corporativos.
 
-##**Dataset a Utilizar**
+## **Dataset a Utilizar**
 - **Periodicidad:** Mensual
 - **Alcance:**
   - Ventas en cantidad de las líneas de negocio Ostomía (OC) e Incontinencia (IC).  
