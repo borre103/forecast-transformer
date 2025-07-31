@@ -46,13 +46,17 @@ Con esta solución, el área de Supply Chain de Coloplast dispone de una herrami
 ## **Conclusiones**
 
 - **Visibilidad anticipada de la demanda**
+  
     Planificación de importaciones con hasta 60 días de antelación, ajustada a las necesidades reales de OC e IC.
   
 - **Reducción de quiebres de stock**
+  
    Pronósticos con un MAPE de ~29 % en OC y ~16 % en IC, muy por debajo de métodos tradicionales.
 
-- **Optimización de inventarios**  
+- **Optimización de inventarios**
+  
    Equilibrio entre inversión en stock y cobertura de demanda, minimizando costos por exceso o faltantes.
 
-- **Escalabilidad y adaptabilidad** 
+- **Escalabilidad y adaptabilidad**
+  
    Misma arquitectura de Deep Learning para múltiples líneas de negocio.
