@@ -16,6 +16,19 @@ En un contexto en el que Coloplast no cuenta con la segmentación de importacion
   
 Con esta solución, el área de Supply Chain de Coloplast dispone de una herramienta predictiva confiable que traduce datos históricos de ventas e importaciones en decisiones operativas concretas, asegurando la disponibilidad de productos clave y apoyando el cumplimiento de los objetivos corporativos.
 
+## ¿Cómo ejecutar la notebook?
+1. **Abrir en colab**
+   
+   - Hacer click en el botón **Colab** que aparece en la parte superior donde esta ubicada el archivo .ipynb  
+2. **Cargar la base de datos**
+
+  - Enviaré por mail el archivo "Database Transformers.csv, también esta subido en este repositorio.
+  - Al ejecutar la notebook, te pedirá un diálogo de subida.
+  - Seleccionar el CSV
+
+3. **Ejecutar todo el análisis**
+  - En Colab, ve a Runtime, Run All
+
 ## **Dataset a Utilizar**
 - **Periodicidad:** Mensual
 - **Alcance:**
