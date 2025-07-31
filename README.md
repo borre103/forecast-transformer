@@ -33,7 +33,7 @@ Con esta solución, el área de Supply Chain y Planificación de Coloplast dispo
 - **Alcance:**
   - Ventas en cantidad de las líneas de negocio Ostomía (OC) e Incontinencia (IC).  
   - Desagregado por línea de negocio.
-- **Período histórico:** Desde Octubre 2019 hasta Junio 2025 (69 meses). Los reportes de importación empiezan en esa época, por lo que no fue la máxima cantidad de datos que pude conseguir.
+- **Período histórico:** Desde Octubre 2019 hasta Junio 2025 (69 meses). Los reportes de importación empiezan en esa época, por lo que fue la máxima cantidad de datos que pude conseguir.
 
 - **Datos históricos de importaciones**  
 - **Periodicidad:** Mensual  
