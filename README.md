@@ -22,12 +22,12 @@ Con esta solución, el área de Supply Chain de Coloplast dispone de una herrami
    - Hacer click en el botón **Colab** que aparece en la parte superior donde esta ubicada el archivo .ipynb  
 2. **Cargar la base de datos**
 
-  - Enviaré por mail el archivo "Database Transformers.csv, también esta subido en este repositorio.
-  - Al ejecutar la notebook, te pedirá un diálogo de subida.
-  - Seleccionar el CSV
+   - Enviaré por mail el archivo "Database Transformers.csv, también esta subido en este repositorio.
+   - Al ejecutar la notebook, te pedirá un diálogo de subida.
+   - Seleccionar el CSV
 
 3. **Ejecutar todo el análisis**
-  - En Colab, ve a Runtime, Run All
+   - En Colab, ve a Runtime, Run All
 
 ## **Dataset a Utilizar**
 - **Periodicidad:** Mensual
