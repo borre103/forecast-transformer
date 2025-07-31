@@ -19,7 +19,7 @@ Con esta solución, el área de Supply Chain de Coloplast dispone de una herrami
 ## ¿Cómo ejecutar la notebook?
 1. **Abrir en colab**
    
-   - Hacer click en el botón **Colab** que aparece en la parte superior donde esta ubicada el archivo .ipynb  
+   - Hacer click en el botón **Open in Colab** que aparece en la parte superior donde esta ubicada el archivo .ipynb  
 2. **Cargar la base de datos**
 
    - Enviaré por mail el archivo "Database Transformers.csv, también esta subido en este repositorio.
