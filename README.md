@@ -30,6 +30,8 @@ Con esta solución, el área de Supply Chain de Coloplast dispone de una herrami
    - En Colab, ve a Runtime, Run All
 
 ## **Dataset a Utilizar**
+
+- **Datos históricos de Ventas**
 - **Periodicidad:** Mensual
 - **Alcance:**
   - Ventas en cantidad de las líneas de negocio Ostomía (OC) e Incontinencia (IC).  
